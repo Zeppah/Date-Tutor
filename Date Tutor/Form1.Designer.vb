@@ -61,7 +61,7 @@ Partial Class Form1
         '
         'MaskedTextBox1
         '
-        Me.MaskedTextBox1.Location = New System.Drawing.Point(279, 151)
+        Me.MaskedTextBox1.Location = New System.Drawing.Point(292, 220)
         Me.MaskedTextBox1.Name = "MaskedTextBox1"
         Me.MaskedTextBox1.Size = New System.Drawing.Size(263, 20)
         Me.MaskedTextBox1.TabIndex = 3
